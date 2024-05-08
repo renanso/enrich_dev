@@ -6,8 +6,7 @@ The first part of the pipeline is a bash script that extracts the flanking seque
 Bash script for fasta sliding window:
 https://github.com/kdillmcfarland/sliding_windows
 
-Key packages:
-rBLAST
-https://github.com/mhahsler/rBLAST
+Key package for R:
+
 primer3
 https://github.com/jensenlab/primer3
