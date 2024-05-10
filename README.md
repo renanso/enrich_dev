@@ -29,4 +29,5 @@ https://stringr.tidyverse.org/index.html
 ggplot2
 https://ggplot2.tidyverse.org/
 
-!([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/renanso/enrich/blob/main/scheme.jpg) "Logo Title Text 1")
+![alt text](https://github.com/renanso/enrich/blob/main/scheme.jpg "Logo Title Text 1")
+
