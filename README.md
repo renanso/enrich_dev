@@ -29,5 +29,4 @@ https://stringr.tidyverse.org/index.html
 ggplot2
 https://ggplot2.tidyverse.org/
 
-![Test Image 1](https://github.com/renanso/enrich/blob/main/scheme.jpg)
 ![image](https://github.com/renanso/enrich/assets/25273302/e24f0563-27ea-42c6-8a00-55c097b6b880)
