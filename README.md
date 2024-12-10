@@ -29,5 +29,5 @@ https://stringr.tidyverse.org/index.html
 ggplot2
 https://ggplot2.tidyverse.org/
 
-![alt text](https://github.com/renanso/enrich/blob/main/scheme.png "Logo Title Text 1")
+![alt text](https://github.com/renanso/enrich_v1/blob/main/scheme.png "Logo Title Text 1")
 
